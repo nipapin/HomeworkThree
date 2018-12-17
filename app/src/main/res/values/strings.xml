@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hoomework Three</string>
+    <string name="squareSign">area goes here</string>
+    <string name="perimeterSign">perimeter goes here</string>
+    <string name="squareButton">Square</string>
+    <string name="perimeterButton">Perimeter</string>
+    <string name="lengthButton">Circumference</string>
+</resources>
